@@ -16,4 +16,5 @@ This project is a **Responsive Registration Form** built with HTML and CSS. The 
 - **HTML5**: For structuring the form elements.
 - **CSS3**: For styling the form and ensuring a responsive, visually appealing design.
 
-- [1693498994357](https://github.com/user-attachments/assets/b3acd4da-a19c-4f58-89a6-fce840aadf63)
+
+![1693498994357](https://github.com/user-attachments/assets/e3359bbf-1d69-4c57-90c6-3ad090ffa7c4)
